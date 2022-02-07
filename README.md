@@ -9,4 +9,6 @@ Breadth-First Search is a recursive algorithm to search all the vertices of a gr
 4.	Keep continuing steps two and three till the queue is empty.
 
 <h1>OUTPUT</h1>
-![image](https://user-images.githubusercontent.com/70971734/152768783-2cfcd860-e050-462e-a284-98fd3ab325a7.png)
+
+![image](https://user-images.githubusercontent.com/70971734/152769129-4eeb29f8-a9b8-44c7-b349-038a694a69d7.png)
+
